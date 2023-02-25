@@ -3,3 +3,14 @@
 # python-devops-from-scratch
 * Following Noah Gift's Python for DevOps program
 
+## Build out a scaffold for a SW project, including:
+* Makefile
+* requirements.txt
+* source (main.py)
+* test
+* Dockerfile
+
+## Create virtual environment with
+* $ virtualenv ~/.venv
+* $ source ~/.venv/bin/activate
+* add the lince to the end of a .bashrc file
